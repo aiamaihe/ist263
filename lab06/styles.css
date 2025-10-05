@@ -1,0 +1,17 @@
+body {
+
+  font-family:  'Courier New', monospace;
+
+}
+h1,h2 {
+    color:purple;
+}
+.evenrow {
+    background-color: darkgray;
+}
+h1{
+    font-size: 5em;
+}
+h2{
+    font-size: 3em;
+}
